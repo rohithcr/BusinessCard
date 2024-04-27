@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">BusinessCard</string>
-    <string name="name_surname">Melissa ÇORALI</string>
-    <string name="business">Junior Android Developer</string>
-    <string name="phone_number">5422222222</string>
-    <string name="email_text">melissacorali@outlook.com</string>
-    <string name="share_text">melissa@android.com</string>
+    <string name="name_surname">Rohith Pailla</string>
+    <string name="business">Android Developer</string>
+    <string name="phone_number">+1 551-998-0466</string>
+    <string name="email_text">paillar1@montclair.edu</string>
+    <string name="share_text">pailla@android.com</string>
 </resources>
